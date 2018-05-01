@@ -1,4 +1,4 @@
-# Webcheckout
+# PayU webcheckout
 
 Documentación: http://developers.payulatam.com/es/web_checkout/integration.html
 
