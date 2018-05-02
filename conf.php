@@ -1,11 +1,11 @@
 <?php 
 
-	$url = 'https://checkout.payulatam.com/ppp-web-gateway-payu/'; // Producción
-	// $url = 'https://sandbox.checkout.payulatam.com/ppp-web-gateway-payu/'; // Sandbox
+	// $url = 'https://checkout.payulatam.com/ppp-web-gateway-payu/'; // Producción
+	$url = 'https://sandbox.checkout.payulatam.com/ppp-web-gateway-payu/'; // Sandbox
 	
-	$ApiKey = 'bK7zFVLdsKbDe9495WaNDMb3j1'; // Obtener este dato dela cuenta de Payu
-	$merchantId = '122164'; // Obtener este dato dela cuenta de Payu
-	$accountId = '717068'; // Obtener este dato dela cuenta de Payu
+	$ApiKey = '4Vj8eK4rloUd272L48hsrarnUA'; // Obtener este dato dela cuenta de Payu
+	$merchantId = '508029'; // Obtener este dato dela cuenta de Payu
+	$accountId = '512321'; // Obtener este dato dela cuenta de Payu
 	$description = 'Compra de libros'; //Descripción del pedido
 	$referenceCode = 'AAAAAA013'; // Referencia Unica del pedido
 	$amount = '10000'; //Es el monto total de la transacción. Puede contener dos dígitos decimales. Ej. 10000.00 ó 10000.
