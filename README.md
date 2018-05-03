@@ -4,7 +4,7 @@ Documentación: http://developers.payulatam.com/es/web_checkout/integration.html
 
 **Nota:** Es necesario tener cuenta en Payu.
 
-## Probar
+## Producción test
 1. Editar el archivo `conf.php`., comentar la url sandbox y descomentar la url producción
 2. Subir los archivos a un servidor para comprobar las respuestas "verificar que las rutas `$responseUrl` y `$confirmationUrl` del archivo `config.php` concuerden con la url del archivo
 3. Ejecutar `index.php` y darle click en el boton enviar
@@ -12,7 +12,7 @@ Documentación: http://developers.payulatam.com/es/web_checkout/integration.html
 
 **Nota:** Tener en cuenta cambiar la referencia "referenceCode" en cada prueba
 
-## Sandbox
+## Sandbox test
 
 1. Editar el archivo `conf.php`.
 2. Subir los archivos a un servidor para comprobar las respuestas "verificar que las rutas `$responseUrl` y `$confirmationUrl` del archivo `config.php` concuerden con la url del archivo
