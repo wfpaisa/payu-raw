@@ -32,20 +32,4 @@ Documentación: http://developers.payulatam.com/es/web_checkout/integration.html
 
 
 ## Credicards de prueba
-Son credicards generadas en linea. 
-
-### VISA 											
-4663982493286321							
-CVV2/CVC2: 747							
-Fecha: 11/2019							
-
-### American
-378927791329723
-CVV2/CVC2: 5302
-Fecha: 03/2019
-
-
-### Mastercard
-5154017132448314
-CVV2/CVC2: 359
-Fecha: 05/2018
+Son credicards generadas en linea, si una es rechazada intentar con otras franquicias https://developer.paypal.com/developer/creditCardGenerator/
